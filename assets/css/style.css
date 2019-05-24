@@ -1,0 +1,175 @@
+
+.wraper1{
+    position:relative;
+    width:960px;
+    padding:20px 0px 0px 0px;
+    margin:0px auto;
+    margin-bottom:0;
+    text-align: center;
+
+}
+.content1 {
+    
+    display: inline-block;
+    width: 100%;
+    height:60px;
+}
+.content1 h1 {
+    height: 100%;
+    color: white;
+    padding: 10px 0px 10px 20px;
+}
+
+h1{
+    font-family:'Georgia', Times, Times New Roman, serif;
+    
+    padding:0px;
+    float: left;
+    background-color: #4aaaa5;
+    
+    
+    margin-left: 0px;
+    margin-right:0px;
+    margin-bottom: 0px;
+}
+
+.about, .contact, .portfolio{
+    float:right;
+    padding:20px 20px 0 20px;
+    margin:5px 5px 0 5px;
+    text-decoration: none;
+
+}
+.contact{
+    padding-right:0;
+}
+.wraper2{
+    border-top:1px solid #4aaaa5;
+    position:relative;
+    background-color: aliceblue;
+    margin-bottom: 0px;
+    height:450px;
+    color:#777777;
+    padding: 50px;
+    background-image: url('../images/email-pattern.png');
+    background-size: 100%;
+    background-repeat: repeat;
+}
+.content{
+    width:960px;
+    height: 480px;
+    padding:0px;
+    margin:0px auto;
+    background:white;
+}
+
+
+.paragraph{
+
+    float:left;
+    width:900px;
+    padding:20px;
+    margin:0px;
+    border-top: 1px solid #6a29d1;
+
+}
+img{
+    
+    margin-right:10px;
+    
+    
+    float:left;
+}
+p{
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    text-align: justify;
+}
+h2{
+    float: left;
+    color: #4aaaa5;
+    padding:10px;
+    margin-left: 0px;
+    margin-right:10px;
+    margin-bottom: 10px;
+}
+.footer{
+   
+   height:50px;
+    background: gray;
+    border-top: 3px solid #6a29d1;
+    margin:0 auto;
+   
+}
+
+.footer p {
+    margin-top: 10px;
+    text-align: center;
+
+}
+
+.portfolio-image {
+    background-size:cover;
+    height: 50px;
+    width: 250px;
+    padding-top: 100px;
+    margin-bottom:20px;
+    float:left;
+   margin-right:30px;
+}
+.portfoliop1 {
+   background-image: url("../images/portfoliop1.jpg");
+   
+}
+.portfoliop2 {
+    background-image: url("../images/pp2.jpg");
+    
+ }
+.portfoliop3 {
+    background-image: url("../images/pp3.jpg");
+   
+ }
+.portfoliop4 {
+    background-image: url("../images/pp4.jpg");
+    
+ }
+ .portfoliop5 {
+    background-image: url("../images/pp5.jpg");
+   
+ }
+
+
+.portfolio-image span {
+    background-color:#4aaaa5;
+    margin-top:50px;
+    width:  100%;
+    display: inline-block;
+    color: white;
+    text-align: center;
+}
+h3{
+    float:left;
+    width:100%;
+}
+textarea{
+    float:left;
+    width:80%;
+}
+
+button{
+    float:left;
+    background-color: #4aaaa5;
+    color:white;
+}
+
+.message-box{
+    height: 100px;
+}
+
+.submit-button {
+    clear: both;
+    margin-top: 20px;
+}
+
+.contact-container {
+    padding: 10px;
+}
